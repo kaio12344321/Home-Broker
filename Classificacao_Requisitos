@@ -1,0 +1,27 @@
+Requisitos
+Cadastro do usuário	
+Login no sistema	
+Bloquear acesso do usuário após n tentativas de acesso sem sucesso	
+Liberação de cadastro após conferência da documentação	
+Permitir usuário recuperar senha por e-mail após identificação	
+Alterar senha de usuário pelo próprio ou pela área de suporte	
+Permitir modificação no cadastro	
+Permitir o envio de ordens de compra (OC)	
+Cancelamento da ordem de compra	
+Modificação da ordem de compra	
+Permitir consulta de status da OC	
+Consultar histórico de OC	
+Permitir envio de ordens de venda (OV)	
+Cancelamento da OV	
+Modificação da OV	
+Permitir consulta de status da OV	
+Consultar histórico de OV	
+"Permitir visualizar carteira de ações
+Permitir OC/OV através da tela de carteira do cliente"	
+Visualizar "Extrato" das ações com todos os negócios realizados com ela em um determinado período	
+Cotação das ações em carteira	
+Permitir personalização da visualização de cotações	
+Exibir maiores altas e maiores baixas	
+Configurar alertas de cotação por e-mail ou SMS	
+Apresentar gráfico intraday e histórico da ação	
+Apresentar: valor atual, abertura, fechamento anterior, máximo, mínimo	
